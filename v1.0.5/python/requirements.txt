@@ -1,0 +1,7 @@
+websockets>=12.0
+# Uncomment según tu base de datos:
+# MySQL/MariaDB:
+# mysql-connector-python>=9.0.0
+# PostgreSQL:
+# psycopg2-binary>=2.9.9
+# SQLite: incluido en Python (no requiere instalación)
